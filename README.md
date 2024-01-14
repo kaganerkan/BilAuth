@@ -50,4 +50,3 @@ This project is licensed under the GNU Affero General Public License Version 3 -
 For more information and updates, visit the [GitHub repository](https://github.com/kaganerkan/bilauth).
 ```
 
-This updated README.md includes the title "bilauth - Authentication and Profile Data Retrieval for Bilfen Bilgi Merkezi" at the beginning.
